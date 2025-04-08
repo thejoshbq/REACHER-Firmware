@@ -1,0 +1,10 @@
+/**
+ * @mainpage REACHER Operant FR Paradigm
+ * @brief Behavioral experiment control system with levers, cues, pumps, and lasers.
+ * 
+ * @section intro Introduction
+ * This project implements a fixed-ratio operant conditioning system using an Arduino.
+ * 
+ * @section author Author
+ * Josh Boquiren (@thejoshbq on GitHub), Otis Lab
+ */
