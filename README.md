@@ -8,7 +8,8 @@
 
 This repository contains four operant conditioning paradigms implemented as Arduino sketches: `operant_FR.ino`, `omission.ino`, `operant_PR.ino`, and `operant_VI.ino`, all of which are compatible with the [REACHER Suite](https://github.com/Otis-Lab-MUSC/REACHER-Suite/). Each sketch controls hardware components (levers, cues, pumps, lasers, etc.) via serial commands from the REACHER Suite Python framework, collects real-time data, and ensures data integrity through immediate serial logging.
 
-"Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain." - Psalm 127:1
+
+---
 
 ## System Requirements
 
