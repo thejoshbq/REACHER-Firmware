@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classDevice.html" title="Base class for hardware devices connected to Arduino pins." alt="" coords="5,104,72,129"/>
+<area shape="rect" id="Node000001" href="$classCue.html" title="A subclass of Device representing a cue speaker for tone playback." alt="" coords="142,5,189,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="60,92,118,40,140,26,143,31,122,44,63,96"/>
+<area shape="rect" id="Node000002" href="$classLaser.html" title="A subclass of Device representing a laser for stimulation." alt="" coords="137,55,194,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="84,96,135,76,137,81,86,101"/>
+<area shape="rect" id="Node000003" href="$classLever.html" title="A subclass of Device representing a lever input device." alt="" coords="136,104,195,129"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="86,114,136,114,136,119,86,119"/>
+<area shape="rect" id="Node000004" href="$classLickCircuit.html" title="A subclass of Device representing a lick detection circuit." alt="" coords="120,153,211,179"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="86,132,133,151,131,156,84,137"/>
+<area shape="rect" id="Node000005" href="$classPump.html" title="A subclass of Device representing a pump for infusion delivery." alt="" coords="136,203,195,228"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="64,137,122,188,141,200,138,205,118,192,60,141"/>
+</map>

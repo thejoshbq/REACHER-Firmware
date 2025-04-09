@@ -1,0 +1,35 @@
+<map id="operant_FR/Program_Utils.cpp" name="operant_FR/Program_Utils.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,384,45"/>
+<area shape="rect" id="Node000002" href="$Program__Utils_8h.html" title="Utility functions for program control and reward delivery." alt="" coords="142,93,269,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,48,233,87,230,82,281,43"/>
+<area shape="rect" id="Node000004" href="$operant__FR_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="263,240,342,265"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="309,45,306,226,300,226,304,45"/>
+<area shape="rect" id="Node000005" href="$operant__FR_2Lever_8h.html" title="Defines the Lever class for monitoring lever interactions." alt="" coords="5,167,75,192"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="230,47,173,67,119,96,84,125,58,157,54,154,81,122,116,91,171,62,228,42"/>
+<area shape="rect" id="Node000006" href="$operant__FR_2Laser_8h.html" title="Defines the Laser class for controlling a laser device." alt="" coords="99,167,167,192"/>
+<area shape="poly" id="edge22_Node000001_Node000006" title=" " alt="" coords="230,38,203,46,176,58,152,74,133,95,127,108,125,123,128,153,123,154,119,123,122,107,128,92,149,70,173,53,201,41,229,33"/>
+<area shape="rect" id="Node000007" href="$operant__FR_2Pump_8h.html" title="Defines the Pump class for controlling a pump device." alt="" coords="345,167,415,192"/>
+<area shape="poly" id="edge23_Node000001_Node000007" title=" " alt="" coords="318,45,371,153,366,155,314,47"/>
+<area shape="rect" id="Node000008" href="$operant__FR_2Cue_8h.html" title="Defines the Cue class for managing a tone&#45;based cue speaker." alt="" coords="440,167,499,192"/>
+<area shape="poly" id="edge24_Node000001_Node000008" title=" " alt="" coords="329,44,449,155,445,159,325,48"/>
+<area shape="rect" id="Node000009" href="$operant__FR_2LickCircuit_8h.html" title="Defines the LickCircuit class for monitoring lick interactions." alt="" coords="523,167,626,192"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="341,43,544,157,541,162,339,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="261,313,345,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,118,223,182,236,224,254,264,283,302,279,305,250,267,231,226,218,184,204,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,118,289,227,285,230,211,121"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="180,121,81,164,78,159,178,116"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="195,121,157,159,153,155,192,117"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="234,116,340,159,338,164,232,121"/>
+<area shape="poly" id="edge14_Node000002_Node000008" title=" " alt="" coords="249,116,428,164,426,169,248,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="305,266,305,300,300,300,300,266"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="56,190,101,225,160,263,210,287,257,306,255,311,207,292,157,268,98,229,52,194"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="76,187,250,234,249,240,74,193"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="141,191,159,226,189,263,222,287,258,305,255,310,219,292,185,267,154,229,136,194"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="162,190,263,232,261,237,160,194"/>
+<area shape="poly" id="edge13_Node000007_Node000003" title=" " alt="" coords="381,193,373,227,357,267,327,305,323,302,352,264,368,225,376,192"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="369,194,327,232,324,229,366,190"/>
+<area shape="poly" id="edge16_Node000008_Node000003" title=" " alt="" coords="459,194,380,267,331,307,327,303,377,263,456,191"/>
+<area shape="poly" id="edge15_Node000008_Node000004" title=" " alt="" coords="444,194,343,237,341,232,442,190"/>
+<area shape="poly" id="edge20_Node000009_Node000003" title=" " alt="" coords="554,195,337,309,335,305,552,190"/>
+<area shape="poly" id="edge21_Node000009_Node000004" title=" " alt="" coords="532,195,356,240,355,235,530,189"/>
+</map>

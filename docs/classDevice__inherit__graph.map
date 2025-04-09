@@ -1,0 +1,28 @@
+<map id="Device" name="Device">
+<area shape="rect" id="Node000001" title="Base class for hardware devices connected to Arduino pins." alt="" coords="154,5,221,31"/>
+<area shape="rect" id="Node000002" href="$classCue.html" title="A subclass of Device representing a cue speaker for tone playback." alt="" coords="5,79,52,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,33,82,57,35,81,33,76,80,52,140,28"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="144,38,49,81,47,76,142,33"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="158,39,53,85,51,80,156,34"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="172,40,114,67,53,88,51,83,112,62,170,35"/>
+<area shape="rect" id="Node000003" href="$classLaser.html" title="A subclass of Device representing a laser for stimulation." alt="" coords="76,79,133,104"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="143,40,116,61,100,80,96,77,113,57,140,36"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="158,41,113,80,110,76,155,37"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="172,43,127,81,123,76,169,39"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="188,44,164,65,135,83,132,79,161,61,185,40"/>
+<area shape="rect" id="Node000004" href="$classLever.html" title="A subclass of Device representing a lever input device." alt="" coords="158,79,217,104"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="164,44,163,62,169,78,164,79,158,62,159,44"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="181,44,183,78,178,79,176,45"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="199,45,197,79,192,78,193,44"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="216,44,216,62,210,79,205,78,211,62,210,44"/>
+<area shape="rect" id="Node000005" href="$classLickCircuit.html" title="A subclass of Device representing a lick detection circuit." alt="" coords="241,79,331,104"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="194,39,220,58,251,76,248,81,217,63,191,43"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="208,37,265,76,261,81,205,41"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="223,36,278,76,275,81,220,40"/>
+<area shape="poly" id="edge16_Node000001_Node000005" title=" " alt="" coords="235,34,269,56,292,77,289,80,266,60,232,38"/>
+<area shape="rect" id="Node000006" href="$classPump.html" title="A subclass of Device representing a pump for infusion delivery." alt="" coords="355,79,414,104"/>
+<area shape="poly" id="edge17_Node000001_Node000006" title=" " alt="" coords="212,34,283,60,356,82,354,87,281,65,210,39"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="226,33,356,79,354,84,224,38"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="234,31,360,76,359,81,233,36"/>
+<area shape="poly" id="edge20_Node000001_Node000006" title=" " alt="" coords="235,27,311,51,374,76,372,81,309,56,233,32"/>
+</map>

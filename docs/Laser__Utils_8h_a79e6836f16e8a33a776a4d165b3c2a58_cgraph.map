@@ -1,0 +1,7 @@
+<map id="inStimPeriod" name="inStimPeriod">
+<area shape="rect" id="Node000001" title="Checks if the current time is within the stimulation period." alt="" coords="5,31,111,56"/>
+<area shape="rect" id="Node000002" href="$classLaser.html#a82807c0ec5c98bf7aa0d64e9d43508fa" title="Gets the stimulation end time." alt="" coords="162,5,302,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,33,148,28,149,33,111,38"/>
+<area shape="rect" id="Node000003" href="$classLaser.html#a6a3ad1b4ec4388618446dcf88750a888" title="Gets the stimulation start time." alt="" coords="159,55,305,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,48,146,53,145,58,110,53"/>
+</map>

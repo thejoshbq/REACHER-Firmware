@@ -1,0 +1,11 @@
+<map id="operant_FR/LickCircuit_Utils.h" name="operant_FR/LickCircuit_Utils.h">
+<area shape="rect" id="Node000001" title="Utility function for monitoring licking behavior." alt="" coords="5,5,173,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,240,138,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,46,73,94,72,130,76,166,90,226,85,228,70,167,67,130,68,93,80,45"/>
+<area shape="rect" id="Node000003" href="$operant__FR_2LickCircuit_8h.html" title="Defines the LickCircuit class for monitoring lick interactions." alt="" coords="83,93,186,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,44,123,80,119,83,98,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="134,120,105,227,100,226,129,118"/>
+<area shape="rect" id="Node000004" href="$operant__FR_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="134,167,213,192"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="143,118,163,153,158,156,139,120"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="163,194,121,232,117,229,159,190"/>
+</map>

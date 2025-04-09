@@ -1,0 +1,10 @@
+<map id="operant_PR/LickCircuit.cpp" name="operant_PR/LickCircuit.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000002" href="$operant__PR_2LickCircuit_8h.html" title="Defines the LickCircuit class for monitoring lick interactions." alt="" coords="51,79,154,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,31,105,65,100,65,100,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="61,225,145,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,105,94,137,92,177,98,212,93,213,87,178,89,137,96,104"/>
+<area shape="rect" id="Node000004" href="$operant__PR_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="102,152,181,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="111,103,131,139,126,141,107,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="137,179,118,215,113,212,133,176"/>
+</map>

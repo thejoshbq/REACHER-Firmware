@@ -1,0 +1,48 @@
+ /**
+ * @mainpage REACHER Operant Conditioning Projects
+ * 
+ * @section intro Introduction
+ * Welcome to the documentation for my operant conditioning projects, developed by Josh Boquiren (@thejoshbq on GitHub) as part of the Otis Lab. These projects are designed for Arduino-based behavioral experiments, integrating levers, pumps, lasers, and more.
+ * 
+ * "Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain." - Psalm 127:1
+ * 
+ * @section projects Projects Overview
+ * This documentation combines four distinct projects:
+ * 
+ * - **Operant FR**: A fixed interval task where the number of lever presses required for a reward is set and does not change. See the @ref operant_FR_page "Operant FR Project" page or the @ref operant_FR namespace for details.
+ * - **Omission**: A contingency-based task where rewards are withheld based on specific conditions. See the @ref omission_page "Omission Project" page or the @ref omission namespace for details.
+ * - **Operant PR**: A progressive ratio task where the number of lever presses required for a reward increases. See the @ref operant_PR_page "Operant PR Project" page or the @ref operant_PR namespace for details.
+ * - **Operant VI**: A variable interval task where rewards are available once randomly within each interval. See the @ref operant_VI_page "Operant VI Project" page or the @ref operant_VI namespace for details.
+ * 
+ * @warning All projects are in testing and not fully verified.
+ * 
+ * @section structure Project Structure
+ * Each project includes:
+ * - Core classes: `Device`, `Cue`, `Laser`, `Lever`, `LickCircuit`, `Pump`
+ * - Main sketch: `.ino` file specific to each experiment
+ * 
+ * @section architecture Architecture Diagram
+ * Below is a simplified diagram of the class hierarchy shared across projects:
+ * @dot
+ * digraph G {
+ *   rankdir=LR;
+ *   Device [shape=box, style=filled, fillcolor=lightblue];
+ *   Cue [shape=box];
+ *   Laser [shape=box];
+ *   Lever [shape=box];
+ *   Pump [shape=box];
+ *   LickCircuit [shape=box];
+ *   Device -> Cue;
+ *   Device -> Laser;
+ *   Device -> Lever;
+ *   Device -> Pump;
+ *   Device -> LickCircuit;
+ * }
+ * @enddot
+ * 
+ * @section usage Using This Documentation
+ * - Use the **Classes** tab to explore shared hardware components.
+ * - Use the **Files** tab to view source code and comments.
+ * - Use the **Namespaces** tab to separate each project’s context.
+ * - Visit the project-specific pages linked above for detailed overviews.
+ */

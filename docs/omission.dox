@@ -1,0 +1,25 @@
+/**
+ * @page omission_page Omission Project
+ * @brief Contingency-based operant conditioning task.
+ * 
+ * @section overview Overview
+ * The Omission project implements a task where rewards are withheld based on specific conditions, such as licking behavior during a cue period. It integrates a cue tone, laser stimulation, lever presses, and a pump for reward delivery.
+ * 
+ * @section features Key Features
+ * - **Cue-based omission**: Rewards are omitted if a lick occurs during the cue.
+ * - **Laser stimulation**: Configurable frequency and mode for optogenetic control.
+ * - **Variable intervals**: Adjustable trace and timeout periods.
+ * 
+ * @section files Key Files
+ * - **omission.ino**: Main sketch defining the program logic.
+ * - **Cue.h/.cpp**: Controls the conditioned stimulus speaker.
+ * - **Laser.h/.cpp**: Manages laser stimulation with frequency and mode settings.
+ * - **Lever.h/.cpp**: Monitors lever presses with debouncing.
+ * - **LickCircuit.h/.cpp**: Detects licking events.
+ * - **Pump.h/.cpp**: Handles reward infusion.
+ * 
+ * @section usage Usage
+ * Arm devices via serial commands (e.g., `ARM_CS`, `ARM_PUMP`), then start the program with `START-PROGRAM`. Monitor output via the Python GUI.
+ * 
+ * @see omission namespace for full documentation of classes and functions.
+ */

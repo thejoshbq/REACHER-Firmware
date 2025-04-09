@@ -1,0 +1,8 @@
+<map id="Laser::getCycleUp" name="Laser::getCycleUp">
+<area shape="rect" id="Node000001" title="Checks if the laser is in the active cycle phase." alt="" coords="257,5,397,31"/>
+<area shape="rect" id="Node000002" href="$Laser__Utils_8cpp.html#a0e13a0e8a2e933f40482dbc1bfe67bb1" title="Oversees the laser&#39;s stimulation mode and timing." alt="" coords="5,5,111,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,21,111,21,111,15,244,15"/>
+<area shape="rect" id="Node000003" href="$Laser__Utils_8cpp.html#ab303ec826d7ba1a203327c357ead0b28" title="Manages the laser&#39;s stimulation behavior based on time and frequency." alt="" coords="159,31,209,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,35,210,42,209,36,243,30"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="144,38,110,31,111,26,145,33"/>
+</map>

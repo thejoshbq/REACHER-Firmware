@@ -1,0 +1,25 @@
+/**
+ * @page operant_PR_page Operant PR Project
+ * @brief Progressive ratio operant conditioning task.
+ * 
+ * @section overview Overview
+ * The Operant PR (Progressive Ratio) project implements a task where the number of lever presses required for a reward increases after each reward delivery. It features a cue tone, pump infusion, and optional laser stimulation.
+ * 
+ * @section features Key Features
+ * - **Progressive ratio**: Required presses increment by a fixed step (e.g., 2) after each reward.
+ * - **Timeout period**: Rewards are unavailable for a set time post-cue.
+ * - **Laser pulsing**: Periodic stimulation independent of lever presses.
+ * 
+ * @section files Key Files
+ * - **operant_PR.ino**: Main sketch with progressive ratio logic.
+ * - **Cue.h/.cpp**: Manages the cue tone with frequency and duration.
+ * - **Laser.h/.cpp**: Controls periodic laser stimulation.
+ * - **Lever.h/.cpp**: Tracks lever presses with debouncing and press type.
+ * - **LickCircuit.h/.cpp**: Monitors licking behavior.
+ * - **Pump.h/.cpp**: Delivers rewards with adjustable infusion settings.
+ * 
+ * @section usage Usage
+ * Configure the active lever (e.g., `ACTIVE_LEVER_RH`), arm devices, and start with `START-PROGRAM`. Adjust ratios via `SET_RATIO:` and `SET_PRATIO:` commands.
+ * 
+ * @see operant_PR namespace for detailed documentation.
+ */

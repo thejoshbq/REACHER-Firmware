@@ -1,0 +1,5 @@
+<map id="Laser::setCycleUp" name="Laser::setCycleUp">
+<area shape="rect" id="Node000001" title="Sets the cycle&#45;up state." alt="" coords="159,5,297,31"/>
+<area shape="rect" id="Node000002" href="$Laser__Utils_8cpp.html#a0e13a0e8a2e933f40482dbc1bfe67bb1" title="Oversees the laser&#39;s stimulation mode and timing." alt="" coords="5,5,111,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,21,111,21,111,15,145,15"/>
+</map>

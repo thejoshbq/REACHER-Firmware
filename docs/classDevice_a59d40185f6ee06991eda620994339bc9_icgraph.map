@@ -1,0 +1,9 @@
+<map id="Device::getPin" name="Device::getPin">
+<area shape="rect" id="Node000001" title="Gets the pin assigned to the device." alt="" coords="183,55,299,80"/>
+<area shape="rect" id="Node000002" href="$Cue__Utils_8cpp.html#a94c5b0adb098686b0a7f26cb33815909" title="Plays a connection or disconnection jingle based on the connection status." alt="" coords="5,5,135,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,53,114,33,116,28,183,48"/>
+<area shape="rect" id="Node000003" href="$LickCircuit__Utils_8cpp.html#a11812a9a6f5ec5e3e82968ceb90b898f" title="Monitors licking activity on a lick circuit with debouncing." alt="" coords="11,55,129,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,70,130,70,130,65,169,65"/>
+<area shape="rect" id="Node000004" href="$Lever__Utils_8cpp.html#a93ae7a86148ee9921067cb4271db7ac4" title="Monitors lever pressing with debouncing and triggers associated actions." alt="" coords="6,104,134,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,87,116,106,114,101,182,81"/>
+</map>

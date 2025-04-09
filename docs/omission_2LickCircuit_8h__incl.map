@@ -1,0 +1,8 @@
+<map id="omission/LickCircuit.h" name="omission/LickCircuit.h">
+<area shape="rect" id="Node000001" title="Defines the LickCircuit class for monitoring lick interactions." alt="" coords="5,5,171,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,152,130,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,31,79,64,77,104,84,138,79,139,72,104,74,63,82,30"/>
+<area shape="rect" id="Node000003" href="$omission_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="87,79,166,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,30,116,65,112,68,92,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="123,106,103,141,98,139,118,103"/>
+</map>

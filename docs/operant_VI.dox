@@ -1,0 +1,25 @@
+/**
+ * @page operant_VI_page Operant VI Project
+ * @brief Variable interval operant conditioning task.
+ * 
+ * @section overview Overview
+ * The Operant VI (Variable Interval) project implements a task where a reward is available once randomly within each interval. After an active press, rewards are unavailable until the next interval.
+ * 
+ * @section features Key Features
+ * - **Variable interval**: Random reward availability within a 15-second window.
+ * - **Single reward**: Only one active press per interval is rewarded.
+ * - **Cue and pump**: Linked to active presses for feedback and reward.
+ * 
+ * @section files Key Files
+ * - **operant_VI.ino**: Main sketch with variable interval logic.
+ * - **Cue.h/.cpp**: Controls the cue speaker.
+ * - **Laser.h/.cpp**: Manages laser stimulation (currently minimal implementation).
+ * - **Lever.h/.cpp**: Monitors lever presses with interval tracking.
+ * - **LickCircuit.h/.cpp**: Detects licking events.
+ * - **Pump.h/.cpp**: Handles reward delivery.
+ * 
+ * @section usage Usage
+ * Set the variable interval with `SET_VARIABLE_INTERVAL:`, arm devices, and start with `START-PROGRAM`. Monitor via the Python GUI.
+ * 
+ * @see operant_VI namespace for comprehensive documentation.
+ */

@@ -1,0 +1,11 @@
+<map id="operant_VI/Laser.cpp" name="operant_VI/Laser.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,163,31"/>
+<area shape="rect" id="Node000002" href="$operant__VI_2Laser_8h.html" title="Defines the Laser class for controlling a laser device." alt="" coords="86,79,154,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,30,110,65,106,68,88,32"/>
+<area shape="rect" id="Node000003" href="$operant__VI_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="9,152,87,177"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="84,32,57,139,52,138,78,30"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,106,71,144,68,140,106,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="45,225,129,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="120,105,95,213,90,211,115,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="57,176,76,212,72,215,52,179"/>
+</map>

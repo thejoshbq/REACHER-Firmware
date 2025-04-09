@@ -1,0 +1,7 @@
+<map id="endProgram" name="endProgram">
+<area shape="rect" id="Node000001" title="Ends the program and disarms devices." alt="" coords="5,31,107,56"/>
+<area shape="rect" id="Node000002" href="$classDevice.html#a5892284484274c1c7bb519205ede65c3" title="Disarms the device to disable its operation." alt="" coords="155,5,275,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,33,141,27,141,32,107,38"/>
+<area shape="rect" id="Node000003" href="$classLaser.html#a246d8e4e16ffe74297f4b0c84b91ee2f" title="Turns the laser off." alt="" coords="173,55,256,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,48,160,56,159,62,106,54"/>
+</map>

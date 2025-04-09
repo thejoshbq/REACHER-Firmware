@@ -1,0 +1,11 @@
+<map id="manageLaser" name="manageLaser">
+<area shape="rect" id="Node000001" title="Controls the laser’s on/off state based on stimulation settings." alt="" coords="5,80,116,105"/>
+<area shape="rect" id="Node000002" href="$classLaser.html#ae5304e2800e5e56a81e0f615fd9c0c4d" title="Gets the current laser action." alt="" coords="164,5,321,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,78,163,40,182,33,184,38,165,44,86,82"/>
+<area shape="rect" id="Node000003" href="$classLaser.html#a636afb9728e9f064926c42bccf177581" title="Gets the current stimulation state." alt="" coords="167,55,318,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,82,153,77,154,82,117,88"/>
+<area shape="rect" id="Node000004" href="$classLaser.html#a246d8e4e16ffe74297f4b0c84b91ee2f" title="Turns the laser off." alt="" coords="201,104,284,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,97,188,107,187,112,116,103"/>
+<area shape="rect" id="Node000005" href="$classLaser.html#a5591692df76c51c584f9dc5bbb563d04" title="Turns the laser on." alt="" coords="202,153,283,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="88,103,165,138,190,147,188,152,163,143,86,108"/>
+</map>

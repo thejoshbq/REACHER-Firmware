@@ -1,0 +1,11 @@
+<map id="omission/Cue.cpp" name="omission/Cue.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,5,147,31"/>
+<area shape="rect" id="Node000002" href="$omission_2Cue_8h.html" title="Defines the Cue class for controlling a cue speaker device." alt="" coords="82,79,141,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,30,103,65,98,67,81,32"/>
+<area shape="rect" id="Node000003" href="$omission_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="5,152,84,177"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="78,32,53,139,48,138,73,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,106,67,144,63,140,98,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="41,225,125,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="112,105,98,178,91,212,86,211,93,177,107,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="53,176,73,212,68,215,49,179"/>
+</map>

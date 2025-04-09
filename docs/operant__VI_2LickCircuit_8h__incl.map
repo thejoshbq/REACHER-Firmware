@@ -1,0 +1,8 @@
+<map id="operant_VI/LickCircuit.h" name="operant_VI/LickCircuit.h">
+<area shape="rect" id="Node000001" title="Defines the LickCircuit class for monitoring lick interactions." alt="" coords="5,5,181,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,152,135,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,31,84,64,83,104,89,138,84,139,77,104,79,63,87,30"/>
+<area shape="rect" id="Node000003" href="$operant__VI_2Device_8h.html" title="Defines the base Device class for hardware components." alt="" coords="93,79,171,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,30,122,65,117,68,97,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="128,106,108,141,104,139,123,103"/>
+</map>

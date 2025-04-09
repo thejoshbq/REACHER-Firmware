@@ -1,0 +1,7 @@
+<map id="Laser::setStimHalfCyclePeriod" name="Laser::setStimHalfCyclePeriod">
+<area shape="rect" id="Node000001" title="Sets the half&#45;cycle period for oscillation." alt="" coords="257,5,476,31"/>
+<area shape="rect" id="Node000002" href="$Laser__Utils_8cpp.html#ab303ec826d7ba1a203327c357ead0b28" title="Manages the laser&#39;s stimulation behavior based on time and frequency." alt="" coords="159,5,209,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,21,209,21,209,15,243,15"/>
+<area shape="rect" id="Node000003" href="$Laser__Utils_8cpp.html#a0e13a0e8a2e933f40482dbc1bfe67bb1" title="Oversees the laser&#39;s stimulation mode and timing." alt="" coords="5,5,111,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,21,111,21,111,15,145,15"/>
+</map>

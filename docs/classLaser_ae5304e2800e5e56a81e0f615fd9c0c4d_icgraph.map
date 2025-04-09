@@ -1,0 +1,10 @@
+<map id="Laser::getStimAction" name="Laser::getStimAction">
+<area shape="rect" id="Node000001" title="Gets the current laser action." alt="" coords="416,31,573,56"/>
+<area shape="rect" id="Node000002" href="$Laser__Utils_8cpp.html#a0c086b00de6df27a18af9a681d766470" title="Controls the laser&#39;s on/off state based on stimulation settings." alt="" coords="257,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,33,368,28,369,23,403,28"/>
+<area shape="rect" id="Node000003" href="$Laser__Utils_8cpp.html#ab303ec826d7ba1a203327c357ead0b28" title="Manages the laser&#39;s stimulation behavior based on time and frequency." alt="" coords="159,31,209,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="402,46,210,46,210,41,402,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,34,210,41,209,36,243,29"/>
+<area shape="rect" id="Node000004" href="$Laser__Utils_8cpp.html#a0e13a0e8a2e933f40482dbc1bfe67bb1" title="Oversees the laser&#39;s stimulation mode and timing." alt="" coords="5,31,111,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,46,111,46,111,41,145,41"/>
+</map>

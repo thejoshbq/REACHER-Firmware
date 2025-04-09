@@ -1,0 +1,27 @@
+<map id="definePressActivity" name="definePressActivity">
+<area shape="rect" id="Node000001" title="Defines the type of lever press and triggers associated actions." alt="" coords="5,155,152,180"/>
+<area shape="rect" id="Node000002" href="$Program__Utils_8cpp.html#a887f7b312e448ea678d8f5ca34f220a7" title="Delivers a reward by activating cue, pump, and laser if armed." alt="" coords="265,105,381,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,152,250,130,252,135,143,157"/>
+<area shape="rect" id="Node000003" href="$classCue.html#a46867d656c457a7f3cd8694e8ffe2887" title="Gets the end timestamp of the cue tone." alt="" coords="499,5,668,31"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="88,153,131,104,163,77,199,56,271,31,346,17,419,10,485,9,485,14,420,15,347,22,272,36,201,60,166,81,135,107,91,156"/>
+<area shape="rect" id="Node000004" href="$classDevice.html#ad11e00f9c5700db962ed3dede2ef9e0c" title="Checks if the device is armed." alt="" coords="519,55,648,80"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="94,152,139,120,168,104,199,91,279,72,361,62,438,59,505,59,505,65,438,64,361,67,280,78,201,97,171,109,142,125,97,157"/>
+<area shape="rect" id="Node000009" href="$classPump.html#a5dbd95afa725d41fab630745c9d088e1" title="Gets the infusion end timestamp." alt="" coords="203,155,442,180"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="152,165,189,165,189,170,152,170"/>
+<area shape="rect" id="Node000010" href="$classPump.html#a1f89b1fc0f98a4552ea7d98d77bb662c" title="Gets the infusion start timestamp." alt="" coords="200,204,445,229"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="140,178,201,190,243,199,242,204,199,195,139,183"/>
+<area shape="rect" id="Node000011" href="$classCue.html#a88eacb5791fc5f61818815ee66de2a01" title="Gets the start timestamp of the cue tone." alt="" coords="239,253,407,279"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="98,178,143,209,201,240,226,248,225,253,199,244,140,214,95,182"/>
+<area shape="rect" id="Node000012" href="$classLever.html#a60f968868323a4ceb47a5d8691606027" title="Sets the press type." alt="" coords="247,303,398,328"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="91,179,134,233,165,264,201,289,235,302,233,307,199,294,162,268,130,237,86,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,103,413,73,492,41,519,32,521,37,494,46,416,78,351,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,104,505,80,506,85,382,109"/>
+<area shape="rect" id="Node000005" href="$classPump.html#a8f793fca2594e1747f638488321b8453" title="Sets the infusion period." alt="" coords="493,203,673,228"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="381,120,414,128,447,141,462,153,472,165,480,178,495,189,507,195,505,200,492,194,477,181,467,169,458,157,444,146,413,133,380,126"/>
+<area shape="rect" id="Node000006" href="$classCue.html#a08d16c27b2fed86260121c5958214827" title="Sets the end timestamp of the cue tone." alt="" coords="499,252,667,277"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="382,117,415,125,447,141,459,153,466,166,472,191,478,216,484,227,495,239,501,243,498,248,492,243,480,230,473,218,467,192,461,168,455,156,444,145,414,130,380,122"/>
+<area shape="rect" id="Node000007" href="$classLaser.html#ac53abb87f05fd2959ee440b7849b2023" title="Sets the stimulation period with a trace interval." alt="" coords="505,104,661,129"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="381,115,492,114,492,120,381,120"/>
+<area shape="rect" id="Node000008" href="$classLaser.html#add3f8ed8bb28d95b640869e5c47be1aa" title="Sets the stimulation state." alt="" coords="509,153,658,179"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="382,126,501,148,500,153,381,131"/>
+</map>

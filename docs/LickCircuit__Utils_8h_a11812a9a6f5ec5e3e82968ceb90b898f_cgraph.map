@@ -1,0 +1,23 @@
+<map id="monitorLicking" name="monitorLicking">
+<area shape="rect" id="Node000001" title="Monitors licking events on a lick circuit." alt="" coords="5,285,124,310"/>
+<area shape="rect" id="Node000002" href="$classLickCircuit.html#a9171f2e2105e77b1050561223faccefd" title="Gets the lick release timestamp." alt="" coords="172,5,369,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,284,74,240,93,179,124,113,145,82,170,55,176,51,179,55,174,59,149,86,129,116,98,181,80,242,71,285"/>
+<area shape="rect" id="Node000003" href="$classLickCircuit.html#ae67f6618236a4f5c37a4849e70fa654a" title="Gets the lick touch timestamp." alt="" coords="179,69,362,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="68,284,80,251,101,207,131,160,170,119,177,114,180,119,174,123,136,163,106,209,85,253,73,286"/>
+<area shape="rect" id="Node000004" href="$classDevice.html#a59d40185f6ee06991eda620994339bc9" title="Gets the pin assigned to the device." alt="" coords="213,134,329,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="71,283,108,228,137,197,171,170,198,157,200,162,173,174,141,200,113,231,75,286"/>
+<area shape="rect" id="Node000005" href="$classLickCircuit.html#a0a3b27410052fa7a67242d0ff0c8432f" title="Gets the previous lick state." alt="" coords="183,184,358,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="84,282,123,258,171,234,188,226,190,231,173,238,126,263,87,287"/>
+<area shape="rect" id="Node000006" href="$classLickCircuit.html#aebbb7111dba6f7f5d81c5fb8d0b40ba4" title="Gets the stable lick state." alt="" coords="177,248,364,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="124,286,163,281,164,286,125,292"/>
+<area shape="rect" id="Node000007" href="$classDevice.html#ad11e00f9c5700db962ed3dede2ef9e0c" title="Checks if the device is armed." alt="" coords="206,313,335,338"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="125,303,192,312,192,317,124,308"/>
+<area shape="rect" id="Node000008" href="$classLickCircuit.html#a139e3d5effa96004e4d1a9240ee8340c" title="Sets the lick release timestamp." alt="" coords="173,363,369,403"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="91,308,173,347,195,356,193,361,171,352,89,313"/>
+<area shape="rect" id="Node000009" href="$classLickCircuit.html#adc3966cd7f32ba3eacd1c1710210217a" title="Sets the lick touch timestamp." alt="" coords="180,427,361,467"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="76,309,115,359,142,388,174,412,184,418,181,423,170,417,139,392,111,362,72,312"/>
+<area shape="rect" id="Node000010" href="$classLickCircuit.html#ae26a974e4649c589289b067a15db05fc" title="Sets the previous lick state." alt="" coords="183,491,358,531"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="73,310,85,343,106,388,135,436,174,477,180,481,177,486,170,481,131,439,101,391,80,345,68,311"/>
+<area shape="rect" id="Node000011" href="$classLickCircuit.html#aa91b84429db0451268809e739d062488" title="Sets the stable lick state." alt="" coords="178,555,363,595"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="70,310,79,353,97,416,128,483,149,514,174,541,179,545,176,549,170,545,145,517,123,485,92,417,74,355,65,311"/>
+</map>

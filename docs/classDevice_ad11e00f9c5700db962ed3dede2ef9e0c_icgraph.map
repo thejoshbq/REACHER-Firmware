@@ -1,0 +1,21 @@
+<map id="Device::isArmed" name="Device::isArmed">
+<area shape="rect" id="Node000001" title="Checks if the device is armed." alt="" coords="543,135,672,160"/>
+<area shape="rect" id="Node000002" href="$Lever__Utils_8cpp.html#ad6aa5c3ae89d8f8dda4a7001e2380567" title="Defines the type of lever press and triggers associated actions." alt="" coords="181,33,328,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="591,124,553,70,525,43,494,23,467,14,439,10,382,11,329,22,287,36,285,31,328,17,382,6,440,4,468,9,496,18,529,39,557,66,595,121"/>
+<area shape="rect" id="Node000003" href="$Lever__Utils_8cpp.html#a93ae7a86148ee9921067cb4271db7ac4" title="Monitors lever pressing with debouncing and triggers associated actions." alt="" coords="5,109,133,135"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="529,136,494,131,396,124,297,121,133,122,133,117,297,116,396,119,495,126,530,131"/>
+<area shape="rect" id="Node000004" href="$Program__Utils_8cpp.html#a887f7b312e448ea678d8f5ca34f220a7" title="Delivers a reward by activating cue, pump, and laser if armed." alt="" coords="377,33,493,59"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="573,130,493,80,459,61,462,57,496,76,576,125"/>
+<area shape="rect" id="Node000005" href="$Cue__Utils_8cpp.html#a901134c3a67c6efb2830b4bc01521d43" title="Manages the operation of a cue tone based on timestamps." alt="" coords="205,135,305,160"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="529,150,305,150,305,145,529,145"/>
+<area shape="rect" id="Node000006" href="$Pump__Utils_8cpp.html#afbfe7e9690b402f3a3e4cde442d43458" title="Controls pump operation based on infusion timestamps." alt="" coords="199,184,311,209"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="530,161,311,192,310,186,529,156"/>
+<area shape="rect" id="Node000007" href="$Laser__Utils_8cpp.html#a0e13a0e8a2e933f40482dbc1bfe67bb1" title="Oversees the laser&#39;s stimulation mode and timing." alt="" coords="383,236,488,261"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="576,170,496,219,462,238,459,234,493,214,573,165"/>
+<area shape="rect" id="Node000008" href="$LickCircuit__Utils_8cpp.html#a11812a9a6f5ec5e3e82968ceb90b898f" title="Monitors licking activity on a lick circuit with debouncing." alt="" coords="376,285,495,311"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="592,173,552,224,526,252,496,276,476,288,474,283,493,272,522,248,548,221,588,170"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,67,102,112,100,107,209,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="364,49,329,49,329,43,364,43"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="190,141,133,133,134,128,191,136"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="202,182,180,174,97,137,99,132,182,169,204,177"/>
+</map>

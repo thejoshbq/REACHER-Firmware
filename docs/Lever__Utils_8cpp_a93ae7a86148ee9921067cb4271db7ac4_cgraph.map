@@ -1,0 +1,75 @@
+<map id="monitorPressing" name="monitorPressing">
+<area shape="rect" id="Node000001" title="Monitors lever pressing with debouncing and triggers associated actions." alt="" coords="5,917,133,943"/>
+<area shape="rect" id="Node000002" href="$Lever__Utils_8cpp.html#ad6aa5c3ae89d8f8dda4a7001e2380567" title="Defines the type of lever press and triggers associated actions." alt="" coords="215,219,361,244"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,917,78,838,97,711,130,558,152,479,179,404,199,360,222,319,267,253,271,256,227,322,204,363,184,406,157,481,135,559,102,712,83,839,74,917"/>
+<area shape="rect" id="Node000005" href="$classDevice.html#ad11e00f9c5700db962ed3dede2ef9e0c" title="Checks if the device is armed." alt="" coords="761,392,891,417"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="78,915,119,871,148,847,180,828,218,813,255,804,323,800,386,807,446,819,504,829,562,829,592,824,622,814,654,798,686,776,724,739,754,695,777,647,794,597,814,502,821,431,827,432,820,503,799,599,782,649,758,698,728,743,690,780,656,803,624,819,593,829,563,834,503,834,445,824,385,812,323,805,256,810,220,818,182,832,151,851,122,875,82,919"/>
+<area shape="rect" id="Node000014" href="$classDevice.html#a59d40185f6ee06991eda620994339bc9" title="Gets the pin assigned to the device." alt="" coords="230,843,346,868"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="94,915,134,896,180,877,216,867,217,872,182,882,136,900,96,920"/>
+<area shape="rect" id="Node000015" href="$classLever.html#a7cee6289230b71c796493e61345a7b4c" title="Gets the previous lever state." alt="" coords="181,892,395,917"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="133,920,168,916,168,921,134,925"/>
+<area shape="rect" id="Node000016" href="$classLever.html#a0d8c9037ea3a4f780133fdd8c399fa2d" title="Gets the stable lever state." alt="" coords="189,941,387,967"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="134,934,175,939,175,944,133,940"/>
+<area shape="rect" id="Node000017" href="$Cue__Utils_8cpp.html#a901134c3a67c6efb2830b4bc01521d43" title="Manages the operation of a cue tone based on timestamps." alt="" coords="238,417,338,443"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="73,916,115,807,179,653,272,454,277,456,184,655,120,809,78,918"/>
+<area shape="rect" id="Node000021" href="$Pump__Utils_8cpp.html#afbfe7e9690b402f3a3e4cde442d43458" title="Controls pump operation based on infusion timestamps." alt="" coords="232,667,344,692"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="77,916,120,858,179,784,261,700,265,703,183,788,124,861,82,919"/>
+<area shape="rect" id="Node000025" href="$Lever__Utils_8cpp.html#ad5016dcc0306b5d42a61f9fd73a2a76f" title="Logs lever press and release data to the serial monitor." alt="" coords="217,991,359,1016"/>
+<area shape="poly" id="edge31_Node000001_Node000025" title=" " alt="" coords="98,940,182,975,214,985,212,990,180,981,96,945"/>
+<area shape="rect" id="Node000030" href="$classLever.html#a0969ff49b3b7f15f5692e712d377d2d8" title="Sets the release timestamp." alt="" coords="459,1065,671,1091"/>
+<area shape="poly" id="edge39_Node000001_Node000030" title=" " alt="" coords="83,941,123,984,151,1007,182,1025,247,1048,316,1064,383,1073,446,1077,445,1083,383,1078,315,1069,246,1054,180,1030,148,1011,119,988,79,945"/>
+<area shape="rect" id="Node000031" href="$classLever.html#a67d72dbfd258d8f7eb2710cd4ea8537d" title="Sets the press timestamp." alt="" coords="191,1092,385,1117"/>
+<area shape="poly" id="edge37_Node000001_Node000031" title=" " alt="" coords="79,941,118,1003,147,1040,183,1070,211,1085,208,1090,180,1075,143,1043,113,1006,75,944"/>
+<area shape="rect" id="Node000032" href="$classLever.html#aa9b03c68cf69748e134a71bd698ebf12" title="Sets the previous lever state." alt="" coords="182,1141,394,1167"/>
+<area shape="poly" id="edge38_Node000001_Node000032" title=" " alt="" coords="76,942,88,979,109,1030,140,1083,160,1107,183,1128,190,1133,187,1137,180,1132,156,1111,136,1086,104,1032,83,981,71,943"/>
+<area shape="rect" id="Node000033" href="$classLever.html#a4022a8010b37b6cfd640a01b007acee4" title="Sets the stable lever state." alt="" coords="189,1191,387,1216"/>
+<area shape="poly" id="edge40_Node000001_Node000033" title=" " alt="" coords="75,942,83,987,102,1051,116,1086,134,1120,156,1151,183,1177,189,1182,186,1186,180,1181,152,1154,130,1122,112,1088,97,1053,78,989,70,943"/>
+<area shape="rect" id="Node000003" href="$Program__Utils_8cpp.html#a887f7b312e448ea678d8f5ca34f220a7" title="Delivers a reward by activating cue, pump, and laser if armed." alt="" coords="507,92,623,117"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,216,364,176,442,134,493,117,495,122,444,139,366,181,308,221"/>
+<area shape="rect" id="Node000004" href="$classCue.html#a46867d656c457a7f3cd8694e8ffe2887" title="Gets the end timestamp of the cue tone." alt="" coords="741,5,911,31"/>
+<area shape="poly" id="edge11_Node000002_Node000004" title=" " alt="" coords="296,217,318,187,351,149,393,109,441,77,513,48,588,30,661,19,727,15,728,20,662,25,589,35,514,53,444,82,396,113,355,152,322,191,300,220"/>
+<area shape="poly" id="edge13_Node000002_Node000005" title=" " alt="" coords="313,216,382,187,428,171,478,158,532,151,586,150,639,158,690,179,714,207,748,262,813,378,809,381,743,265,709,210,686,183,638,163,586,155,532,156,479,164,429,176,384,192,315,221"/>
+<area shape="rect" id="Node000010" href="$classPump.html#a5dbd95afa725d41fab630745c9d088e1" title="Gets the infusion end timestamp." alt="" coords="446,243,685,268"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="362,235,432,241,432,246,361,240"/>
+<area shape="rect" id="Node000011" href="$classPump.html#a1f89b1fc0f98a4552ea7d98d77bb662c" title="Gets the infusion start timestamp." alt="" coords="443,541,688,567"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="301,243,344,310,397,404,409,440,414,472,422,500,431,513,444,527,452,532,449,536,441,531,427,516,417,502,409,473,404,442,392,406,340,313,296,246"/>
+<area shape="rect" id="Node000012" href="$classCue.html#a88eacb5791fc5f61818815ee66de2a01" title="Gets the start timestamp of the cue tone." alt="" coords="481,292,649,317"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="328,242,443,277,485,287,483,292,442,282,326,247"/>
+<area shape="rect" id="Node000013" href="$classLever.html#a60f968868323a4ceb47a5d8691606027" title="Sets the press type." alt="" coords="490,193,641,219"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="361,222,476,211,477,217,362,227"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="598,89,735,39,761,32,762,37,737,45,600,94"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="625,107,659,117,690,135,711,159,721,182,727,208,738,238,813,379,809,382,734,240,722,210,715,184,706,161,686,139,656,121,623,112"/>
+<area shape="rect" id="Node000006" href="$classPump.html#a8f793fca2594e1747f638488321b8453" title="Sets the infusion period." alt="" coords="736,203,916,228"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="624,110,658,120,689,134,705,148,714,162,723,175,738,188,752,195,749,200,734,192,719,179,710,165,701,151,687,139,656,124,623,115"/>
+<area shape="rect" id="Node000007" href="$classCue.html#a08d16c27b2fed86260121c5958214827" title="Sets the end timestamp of the cue tone." alt="" coords="742,55,910,80"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="624,94,728,79,729,84,624,99"/>
+<area shape="rect" id="Node000008" href="$classLaser.html#ac53abb87f05fd2959ee440b7849b2023" title="Sets the stimulation period with a trace interval." alt="" coords="748,104,904,129"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="624,105,734,110,734,115,624,110"/>
+<area shape="rect" id="Node000009" href="$classLaser.html#add3f8ed8bb28d95b640869e5c47be1aa" title="Sets the stimulation state." alt="" coords="751,153,901,179"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="621,115,758,148,757,153,620,120"/>
+<area shape="poly" id="edge21_Node000017_Node000005" title=" " alt="" coords="338,425,747,406,748,411,338,430"/>
+<area shape="poly" id="edge20_Node000017_Node000012" title=" " alt="" coords="303,415,361,371,400,347,442,326,467,317,469,322,444,331,403,351,364,376,306,419"/>
+<area shape="rect" id="Node000018" href="$classCue.html#a7584bb7230e8d35e7b7efac844f253c1" title="Turns the cue tone off." alt="" coords="529,443,601,468"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="339,432,516,448,515,453,338,437"/>
+<area shape="rect" id="Node000019" href="$classCue.html#a1cf431fb8dd6c2e44b8cee6a7f68e748" title="Turns the cue tone on." alt="" coords="530,492,601,517"/>
+<area shape="poly" id="edge23_Node000017_Node000019" title=" " alt="" coords="326,440,443,477,517,493,516,499,442,482,325,445"/>
+<area shape="rect" id="Node000020" href="$classCue.html#a7e882b97dd009f12c3cbc922dfbc2d35" title="Sets the running state of the cue." alt="" coords="501,341,629,367"/>
+<area shape="poly" id="edge24_Node000017_Node000020" title=" " alt="" coords="332,415,442,383,501,368,502,373,443,389,334,420"/>
+<area shape="poly" id="edge27_Node000021_Node000005" title=" " alt="" coords="344,675,430,671,531,662,624,647,660,637,687,625,712,605,735,582,772,528,798,474,815,430,820,431,803,476,776,530,739,585,716,609,689,630,662,642,625,653,531,668,431,676,344,681"/>
+<area shape="poly" id="edge26_Node000021_Node000011" title=" " alt="" coords="303,664,361,620,400,596,442,576,464,568,466,573,444,580,403,601,364,625,306,669"/>
+<area shape="rect" id="Node000022" href="$classPump.html#acbf91dd23dcce4c5462267a02ca4b738" title="Turns the pump off." alt="" coords="523,741,607,767"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="326,690,443,726,511,741,509,747,442,731,325,695"/>
+<area shape="rect" id="Node000023" href="$classPump.html#a0230c8879d5639f69d34d10d6247a982" title="Turns the pump on." alt="" coords="524,591,607,616"/>
+<area shape="poly" id="edge29_Node000021_Node000023" title=" " alt="" coords="332,664,442,633,509,615,511,620,443,638,334,669"/>
+<area shape="rect" id="Node000024" href="$classPump.html#a9d36edd070844842cfd4834a35de1591" title="Sets the pump running state." alt="" coords="495,692,635,717"/>
+<area shape="poly" id="edge30_Node000021_Node000024" title=" " alt="" coords="345,682,482,694,481,700,344,687"/>
+<area shape="rect" id="Node000026" href="$classLever.html#a0c95a59bf6bdef44598256ded97ec718" title="Gets the lever orientation." alt="" coords="485,967,645,992"/>
+<area shape="poly" id="edge32_Node000025_Node000026" title=" " alt="" coords="359,995,471,985,471,990,360,1000"/>
+<area shape="rect" id="Node000027" href="$classLever.html#a127dd231796aa33fe006c6382ac0ccc3" title="Gets the press timestamp." alt="" coords="467,1016,663,1041"/>
+<area shape="poly" id="edge33_Node000025_Node000027" title=" " alt="" coords="360,1007,454,1016,453,1021,359,1012"/>
+<area shape="rect" id="Node000028" href="$classLever.html#a2aa2b14bd718f7cbe35c668ec8a2fa00" title="Gets the press type." alt="" coords="489,868,641,893"/>
+<area shape="poly" id="edge34_Node000025_Node000028" title=" " alt="" coords="358,992,393,976,409,959,416,940,424,921,441,902,475,887,477,892,444,907,428,924,421,942,413,962,396,980,361,997"/>
+<area shape="rect" id="Node000029" href="$classLever.html#a4f7d3a7e6a240aa66af53ec3d8fe23eb" title="Gets the release timestamp." alt="" coords="459,917,672,943"/>
+<area shape="poly" id="edge35_Node000025_Node000029" title=" " alt="" coords="352,988,394,976,417,963,442,952,470,943,471,948,444,956,420,968,396,980,353,993"/>
+<area shape="poly" id="edge36_Node000025_Node000030" title=" " alt="" coords="335,1014,396,1033,443,1051,477,1060,475,1065,442,1057,394,1038,333,1019"/>
+</map>

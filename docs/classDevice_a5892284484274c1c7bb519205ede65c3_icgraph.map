@@ -1,0 +1,5 @@
+<map id="Device::disarm" name="Device::disarm">
+<area shape="rect" id="Node000001" title="Disarms the device to disable its operation." alt="" coords="155,5,275,31"/>
+<area shape="rect" id="Node000002" href="$Program__Utils_8cpp.html#abefe6a54b25cffa075a404b6fad27638" title="Ends the program and disarms all devices." alt="" coords="5,5,107,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,21,107,21,107,15,141,15"/>
+</map>

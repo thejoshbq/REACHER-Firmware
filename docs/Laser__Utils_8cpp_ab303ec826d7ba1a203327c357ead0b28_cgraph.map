@@ -1,0 +1,42 @@
+<map id="stim" name="stim">
+<area shape="rect" id="Node000001" title="Manages the laser&#39;s stimulation behavior based on time and frequency." alt="" coords="5,281,56,307"/>
+<area shape="rect" id="Node000002" href="$classLaser.html#a78c6fce82f25d716161cffc3ee30a03b" title="Checks if the laser is in the active cycle phase." alt="" coords="143,5,283,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,281,30,236,38,171,47,135,60,101,78,68,102,40,129,24,131,28,106,44,83,71,65,103,52,137,43,172,35,236,34,281"/>
+<area shape="rect" id="Node000003" href="$classLaser.html#a3167595b150ae3b064d6decdb6e1aadd" title="Gets the laser pulse frequency." alt="" coords="137,55,290,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="30,281,35,245,47,195,68,143,83,119,102,97,122,83,125,88,106,101,88,122,73,146,52,197,40,246,36,281"/>
+<area shape="rect" id="Node000004" href="$classLaser.html#ae5304e2800e5e56a81e0f615fd9c0c4d" title="Gets the current laser action." alt="" coords="373,60,531,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="32,280,38,251,52,214,72,174,102,141,138,128,203,112,360,84,360,89,204,118,140,133,106,146,77,177,56,216,44,253,37,282"/>
+<area shape="rect" id="Node000005" href="$classLaser.html#aa10e3af3e1dca555ee84f09ad93ba219" title="Gets the half&#45;cycle end time." alt="" coords="112,205,315,231"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="49,279,103,248,145,232,147,237,105,252,52,283"/>
+<area shape="rect" id="Node000006" href="$classLaser.html#a83a98a76ccd435b134674f529d651892" title="Checks if the stimulation has been logged." alt="" coords="383,257,521,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="56,290,368,272,369,277,56,295"/>
+<area shape="rect" id="Node000007" href="$Laser__Utils_8cpp.html#a79e6836f16e8a33a776a4d165b3c2a58" title="Checks if the current time is within the laser&#39;s stimulation period." alt="" coords="161,356,266,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="49,305,74,323,105,341,148,355,146,360,103,346,71,328,45,309"/>
+<area shape="rect" id="Node000010" href="$Laser__Utils_8cpp.html#a2e02d0a0bff6e230e9d4c14e9c858479" title="Logs the laser stimulation period to the serial monitor." alt="" coords="177,307,249,332"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="57,295,164,310,163,315,56,300"/>
+<area shape="rect" id="Node000011" href="$classLaser.html#af38ad74257fa02f353995dd762d778ff" title="Sets the logged state of the stimulation." alt="" coords="371,405,533,431"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="39,306,63,350,82,373,105,392,135,406,167,417,233,429,299,432,359,429,359,435,299,438,233,434,166,422,133,411,103,396,78,377,58,353,35,308"/>
+<area shape="rect" id="Node000012" href="$Laser__Utils_8cpp.html#a0c086b00de6df27a18af9a681d766470" title="Controls the laser&#39;s on/off state based on stimulation settings." alt="" coords="158,156,269,181"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="35,280,59,236,79,211,103,190,122,180,144,173,145,178,124,185,105,195,83,215,64,239,40,282"/>
+<area shape="rect" id="Node000016" href="$classLaser.html#a28a9eb7770672e8b73ad868a1a447c4a" title="Sets the laser action." alt="" coords="135,457,291,483"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="37,306,58,369,78,405,106,436,127,450,125,454,102,440,74,408,53,371,32,308"/>
+<area shape="rect" id="Node000017" href="$classLaser.html#a7a969afb14ff3748f10928c231f8eda0" title="Sets the half&#45;cycle period for oscillation." alt="" coords="104,507,323,532"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="35,306,39,344,50,394,71,448,86,472,106,493,111,497,107,501,102,497,82,476,66,450,45,396,34,344,30,307"/>
+<area shape="rect" id="Node000018" href="$classLaser.html#add3f8ed8bb28d95b640869e5c47be1aa" title="Sets the stimulation state." alt="" coords="139,556,288,581"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="34,307,35,352,44,416,52,451,65,484,83,516,106,543,127,556,124,561,102,547,78,519,60,487,47,452,38,417,30,353,29,307"/>
+<area shape="rect" id="Node000008" href="$classLaser.html#a82807c0ec5c98bf7aa0d64e9d43508fa" title="Gets the stimulation end time." alt="" coords="382,307,522,332"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="266,355,376,332,377,337,267,360"/>
+<area shape="rect" id="Node000009" href="$classLaser.html#a6a3ad1b4ec4388618446dcf88750a888" title="Gets the stimulation start time." alt="" coords="379,356,525,381"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="266,366,365,366,365,371,266,371"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="249,309,376,283,377,288,250,315"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="249,317,368,317,368,322,249,322"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="250,324,377,351,376,356,249,329"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="250,319,287,326,324,341,340,354,349,367,358,380,372,392,383,398,381,402,369,396,354,383,345,370,336,357,321,346,285,331,249,324"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="268,155,321,134,335,125,345,115,355,105,369,94,383,88,386,93,372,99,358,109,349,119,339,129,324,139,270,160"/>
+<area shape="rect" id="Node000013" href="$classLaser.html#a636afb9728e9f064926c42bccf177581" title="Gets the current stimulation state." alt="" coords="377,109,527,135"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="268,155,372,135,374,140,269,161"/>
+<area shape="rect" id="Node000014" href="$classLaser.html#a246d8e4e16ffe74297f4b0c84b91ee2f" title="Turns the laser off." alt="" coords="411,159,493,184"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="269,167,397,168,397,173,269,172"/>
+<area shape="rect" id="Node000015" href="$classLaser.html#a5591692df76c51c584f9dc5bbb563d04" title="Turns the laser on." alt="" coords="411,208,493,233"/>
+<area shape="poly" id="edge18_Node000012_Node000015" title=" " alt="" coords="269,178,398,206,397,212,268,183"/>
+</map>

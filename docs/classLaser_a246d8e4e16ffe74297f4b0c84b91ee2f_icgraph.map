@@ -1,0 +1,11 @@
+<map id="Laser::off" name="Laser::off">
+<area shape="rect" id="Node000001" title="Turns the laser off." alt="" coords="416,31,499,56"/>
+<area shape="rect" id="Node000002" href="$Program__Utils_8cpp.html#abefe6a54b25cffa075a404b6fad27638" title="Ends the program and disarms all devices." alt="" coords="262,5,363,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,36,363,29,364,24,403,31"/>
+<area shape="rect" id="Node000003" href="$Laser__Utils_8cpp.html#a0c086b00de6df27a18af9a681d766470" title="Controls the laser&#39;s on/off state based on stimulation settings." alt="" coords="257,55,368,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,55,369,61,368,56,402,50"/>
+<area shape="rect" id="Node000004" href="$Laser__Utils_8cpp.html#ab303ec826d7ba1a203327c357ead0b28" title="Manages the laser&#39;s stimulation behavior based on time and frequency." alt="" coords="159,55,209,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="244,70,210,70,210,65,244,65"/>
+<area shape="rect" id="Node000005" href="$Laser__Utils_8cpp.html#a0e13a0e8a2e933f40482dbc1bfe67bb1" title="Oversees the laser&#39;s stimulation mode and timing." alt="" coords="5,55,111,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="145,70,111,70,111,65,145,65"/>
+</map>

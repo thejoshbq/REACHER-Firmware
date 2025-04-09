@@ -1,0 +1,5 @@
+<map id="connectionJingle" name="connectionJingle">
+<area shape="rect" id="Node000001" title="Plays a connection or disconnection jingle based on the connection status." alt="" coords="5,5,135,31"/>
+<area shape="rect" id="Node000002" href="$classDevice.html#a59d40185f6ee06991eda620994339bc9" title="Gets the pin assigned to the device." alt="" coords="183,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,15,169,15,169,21,135,21"/>
+</map>
