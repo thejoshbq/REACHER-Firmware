@@ -163,7 +163,7 @@ The REACHER Suite (Rodent Experiment Application Controls and Handling Ecosystem
 1. Clone the repository or download the desired project(s) from the table above.
 2. Install required Arduino libraries via the Library Manager.
 3. Upload the `.ino` file to your Arduino.
-4. Launch the REACHER Suite Dashboard (download [here]()) and connect to the Arduino.
+4. Launch the REACHER Suite Dashboard (download [here](https://github.com/Otis-Lab-MUSC/REACHER-Suite/)) and connect to the Arduino.
 5. Configure and start your experiment using the provided serial commands.
 
 This suite provides a robust foundation for operant conditioning research, integrating seamlessly with the REACHER ecosystem.
