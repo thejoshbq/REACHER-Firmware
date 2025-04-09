@@ -2,9 +2,11 @@
 
 [![Documentation](https://img.shields.io/badge/Documentation-grey?style=for-the-badge)](https://otis-lab-musc.github.io/REACHER-Firmware/)
 
+*Written by*: Joshua Boquiren ([*@thejoshbq*](https://github.com/thejoshbq/thejoshbq/))
+
 ## Overview
 
-The REACHER Suite (Rodent Experiment Application Controls and Handling Ecosystem for Research) is a framework for Arduino-based behavioral experiments, developed by Josh Boquiren ([***@thejoshbq***](https://github.com/thejoshbq/thejoshbq/) on GitHub) as part of the Otis Lab at MUSC. This repository contains four operant conditioning paradigms implemented as Arduino sketches: `operant_FR.ino`, `omission.ino`, `operant_PR.ino`, and `operant_VI.ino`. Each sketch controls hardware components (levers, cues, pumps, lasers, etc.) via serial commands from the REACHER Suite Python framework, collects real-time data, and ensures data integrity through immediate serial logging.
+This repository contains four operant conditioning paradigms implemented as Arduino sketches: `operant_FR.ino`, `omission.ino`, `operant_PR.ino`, and `operant_VI.ino`, all of which are compatible with the [REACHER Suite](https://github.com/Otis-Lab-MUSC/REACHER-Suite/). Each sketch controls hardware components (levers, cues, pumps, lasers, etc.) via serial commands from the REACHER Suite Python framework, collects real-time data, and ensures data integrity through immediate serial logging.
 
 "Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain." - Psalm 127:1
 
@@ -167,3 +169,15 @@ The REACHER Suite (Rodent Experiment Application Controls and Handling Ecosystem
 5. Configure and start your experiment using the provided serial commands.
 
 This suite provides a robust foundation for operant conditioning research, integrating seamlessly with the REACHER ecosystem.
+
+<br><br>
+<div align="center">
+  <h2>Copyright & License</h2>
+  <p>© 2025 Otis Lab. All rights reserved.</p>
+  <p>For more information, please contact the author at <a href="mailto:thejoshbq@proton.me"><i>thejoshbq@proton.me</i></a>
+</div>
+
+<div align="center", style="padding: 10px; background-color: #333; color: white;">
+    <p><i>"The heavens declare the glory of God, and the sky above proclaims his handiwork."</i>
+    <p>Psalm 19:1</p>
+</div>
